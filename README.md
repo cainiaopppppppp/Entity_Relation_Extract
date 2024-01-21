@@ -1,0 +1,2 @@
+# entity_relation_extract
+基于SemEval2010_task8的实体命名与关系抽取模型
